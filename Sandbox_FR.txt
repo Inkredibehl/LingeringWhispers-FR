@@ -1,0 +1,18 @@
+Sandbox_FR = {
+    Sandbox_LingeringVoices = "Lingering Voices",
+
+    Sandbox_LingeringVoices_RespondToSound = "Zombies attirés par la parole",
+    Sandbox_LingeringVoices_RespondToSound_tooltip = "Les zombies réagissent à la parole des zombies comme le cri du joueur",
+
+    Sandbox_LingeringVoices_CustomLines = "Lignes personnalisées",
+    Sandbox_LingeringVoices_CustomLines_tooltip = "Indique si les lignes personnalisées doivent être utilisées dans USERNAME/Zomboid/Lua/talkingDeadCustomLine.lua",
+
+    Sandbox_LingeringVoices_LowerLineLimit = "Délai minimal",
+    Sandbox_LingeringVoices_LowerLineLimit_tooltip = "Nombre minimal de secondes qui doivent s'écouler avant qu'une autre ligne ne soit prononcée par un zombie.",
+
+    Sandbox_LingeringVoices_UpperLineLimit = "Délai maximal",
+    Sandbox_LingeringVoices_UpperLineLimit_tooltip = "Nombre maximal de secondes qui doivent s'écouler avant qu'une autre ligne ne soit prononcée par un zombie.",
+
+    Sandbox_LingeringVoices_StaggerSpeakChance = "Chance de parler en étant frappé",
+    Sandbox_LingeringVoices_StaggerSpeakChance_tooltip = "Chance sur 1000 pour qu'un zombie parle lorsqu'il est frappé.",
+}
